@@ -1,0 +1,14 @@
+D:\data-base\OOP_Projects\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+D:\data-base\OOP_Projects\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+D:\data-base\OOP_Projects\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+D:\data-base\OOP_Projects\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+D:\data-base\OOP_Projects\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+D:\data-base\OOP_Projects\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll

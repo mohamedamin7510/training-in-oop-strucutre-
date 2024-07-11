@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-base\\OOP_Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\subuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\subuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\librariain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librariain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\superuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\superuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|d:\\data-base\\oop_projects\\librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41740692-F938-4E6D-919B-1D7D9C705409}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Readme.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Readme.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Readme.cs",
+              "RelativeToolTip": "LibrarySystem\\Readme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:56:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Library.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Library.cs*",
+              "RelativeToolTip": "LibrarySystem\\Library.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:58:50.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Book.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Book.cs",
+              "RelativeToolTip": "LibrarySystem\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:53:45.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librariain.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Librariain.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Librariain.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Librariain.cs",
+              "RelativeToolTip": "LibrarySystem\\Librariain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:49:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\LibraryCard.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\LibraryCard.cs",
+              "RelativeToolTip": "LibrarySystem\\LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:40:56.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubUser.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\SubUser.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\SubUser.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\SubUser.cs",
+              "RelativeToolTip": "LibrarySystem\\SubUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:35:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperUser.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\SuperUser.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\SuperUser.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\SuperUser.cs",
+              "RelativeToolTip": "LibrarySystem\\SuperUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:33:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "D:\\data-base\\OOP_Projects\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAjwEcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:23:29.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
